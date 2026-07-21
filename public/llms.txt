@@ -1,0 +1,70 @@
+# קסם האלוורה — Generative Engine Optimization Map
+
+> Kesem HaAloe (קסם האלוורה) is a natural beauty and health brand centered around aloe vera as its core ingredient. The brand evokes a sense of natural magic and purity, combining wellness with botanical beauty. The name suggests an enchanting, almost mystical connection to nature, positioning the brand as a premium yet approachable destination for those seeking natural, plant-based personal care and health products.
+
+---
+
+## Pages
+
+### בית
+https://-62e65962.zappy5.app
+מוצרי בריאות טבעיים וטיפוח על בסיס אלוורה טהורה לעור זוהר ובריא. היכנסו לעולם של קסם בוטני והתחילו את מסע הבריאות שלכם עוד היום!
+
+### תודה שפניתם אלינו | קסם האלוורה
+https://-62e65962.zappy5.app/thank-you
+קסם האלוורה - תודה שפניתם אלינו | קסם האלוורה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-62e65962.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-62e65962.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-62e65962.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-62e65962.zappy5.app
+- Endpoint: https://-62e65962.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קסם האלוורה
+Kesem HaAloe (קסם האלוורה) is a natural beauty and health brand centered around aloe vera as its core ingredient. The brand evokes a sense of natural magic and purity, combining wellness with botanical beauty. The name suggests an enchanting, almost mystical connection to nature, positioning the brand as a premium yet approachable destination for those seeking natural, plant-based personal care and health products.
+
+## Target Audience
+- הורים מודעים לבריאות
+- צרכנים ידידותיים לסביבה
+- אנשים רגישים לאלרגיות
+
+## Industry
+Natural Beauty & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-62e65962.zappy5.app/sitemap.xml
+- Robots: https://-62e65962.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-62e65962.zappy5.app/llms-full.txt
