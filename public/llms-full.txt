@@ -2,13 +2,13 @@
 
 Kesem HaAloe (קסם האלוורה) is a natural beauty and health brand centered around aloe vera as its core ingredient. The brand evokes a sense of natural magic and purity, combining wellness with botanical beauty. The name suggests an enchanting, almost mystical connection to nature, positioning the brand as a premium yet approachable destination for those seeking natural, plant-based personal care and health products.
 
-Source: https://-62e65962.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את סוד היופי הטבעי — קסם האלוורה
 
-URL: https://-62e65962.zappy5.app
+URL: https://example.com
 Description: מוצרי בריאות טבעיים וטיפוח על בסיס אלוורה טהורה לעור זוהר ובריא. היכנסו לעולם של קסם בוטני והתחילו את מסע הבריאות שלכם עוד היום!
 
 גלו את סוד היופי הטבעי — קסם האלוורה
@@ -647,7 +647,7 @@ Description: מוצרי בריאות טבעיים וטיפוח על בסיס א�
 
 ## מדיניות פרטיות
 
-URL: https://-62e65962.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -910,7 +910,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-62e65962.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1182,7 +1182,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-62e65962.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1473,7 +1473,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו | קסם האלוורה
 
-URL: https://-62e65962.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: קסם האלוורה - תודה שפניתם אלינו | קסם האלוורה
 
 תודה שפניתם אלינו | קסם האלוורה
