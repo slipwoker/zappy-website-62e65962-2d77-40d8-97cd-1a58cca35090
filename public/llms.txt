@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://kesem-haaloevera.zappy5.app
 מוצרי בריאות טבעיים וטיפוח על בסיס אלוורה טהורה לעור זוהר ובריא. היכנסו לעולם של קסם בוטני והתחילו את מסע הבריאות שלכם עוד היום!
 
 ### תודה שפניתם אלינו | קסם האלוורה
-https://example.com/thank-you
+https://kesem-haaloevera.zappy5.app/thank-you
 קסם האלוורה - תודה שפניתם אלינו | קסם האלוורה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kesem-haaloevera.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kesem-haaloevera.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kesem-haaloevera.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -38,8 +38,8 @@ Information about WCAG compliance and accessibility features.
 - Address: קרית מוצקין, ישראל, ישראל
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://kesem-haaloevera.zappy5.app
+- Endpoint: https://kesem-haaloevera.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -68,6 +68,6 @@ Natural Beauty & Wellness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://kesem-haaloevera.zappy5.app/sitemap.xml
+- Robots: https://kesem-haaloevera.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kesem-haaloevera.zappy5.app/llms-full.txt
