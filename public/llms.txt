@@ -35,7 +35,7 @@ Information about WCAG compliance and accessibility features.
 - Email: ravitbh21@gmail.com
 - Phone: 0522352772
 - Phone (tel): tel:0522352772
-- Address: 7 אלמוגי יוסף, קרית מוצקין, ישראל, ישראל
+- Address: קרית מוצקין, ישראל, ישראל
 
 ### Contact form
 - URL: https://example.com
